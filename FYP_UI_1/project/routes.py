@@ -51,6 +51,7 @@ def about():
 	return render_template('about.html', title='About')
 
 @app.route("/drive")
+@login_required
 def drive():
 	folder_icon = url_for('static', filename='driveIcons/folderIcon.png' )
 	return render_template('drive.html', title='Drive', image_file = folder_icon, folders= folders)
