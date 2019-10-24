@@ -5,7 +5,11 @@
 
 {% for folder in folders %}
 	{% if folder.current_location == 'drive' %}
-		<a href="{{ url_for(folder.link) }}">
+		{% if folder.current_location == link %}
+		
+		{% endif %}
+
+		<a href="{{folder.link}}">
 		<article class="media content-section col-md-4" >
 		  <div class="media-body">
 		    <div class="article-metadata">

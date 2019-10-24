@@ -14,6 +14,7 @@ class User(db.Model, UserMixin):
 	image_file = db.Column(db.String(20), nullable=False, default='default.png')
 	password = db.Column(db.String(60), nullable=False)
 	posts = db.relationship('Post', backref='author', lazy=True)
+	folders = db.relationship('Folder', backref='author', lazy=True)
 
 # print method
 	def __repr__(self):
@@ -28,4 +29,16 @@ class Post(db.Model):
 # print method
 	def __repr__(self):
 		return f"Post('{self.title}', '{self.date_posted}' )"
+
+
+class Folder(db.Model):
+	id = db.Column(db.Integer, primary_key=True)
+	title = db.Column(db.String(100), nullable=False)
+	date_created = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
+	location = db.Column(db.String(200), nullable=False)
+	user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
+	
+
+
+
 

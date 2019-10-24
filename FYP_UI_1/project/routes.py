@@ -23,7 +23,7 @@ folders = [
 	{
 		'title': 'pdf',
 		'date_created' : 'October 24, 2019',
-		'link' : 'home',
+		'link' : 'drive/pdf',
 		'current_location': 'drive'
 	},
 	{
@@ -54,7 +54,7 @@ def about():
 @login_required
 def drive():
 	folder_icon = url_for('static', filename='driveIcons/folderIcon.png' )
-	return render_template('drive.html', title='Drive', image_file = folder_icon, folders= folders)
+	return render_template('drive.html', title='Drive', image_file = folder_icon, folders= folders, link='')
 
 @app.route("/register", methods=['GET', 'POST'])
 def register():
