@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block content %}
+
+
+
+{% for folder in folders %}
+	{% if folder.current_location == 'drive' %}
+		<a href="{{ url_for(folder.link) }}">
+		<article class="media content-section col-md-4" >
+		  <div class="media-body">
+		    <div class="article-metadata">
+			<img src="{{ image_file }}" >
+		      <small class="text-muted">{{ folder.date_created }}</small>
+		    </div>
+			  <p class="article-title">{{ folder.title }}</p>
+		  </div>
+		
+		</article>
+		</a>
+	{%  endif %}
+{% endfor %}
+
+
+{% endblock content %}

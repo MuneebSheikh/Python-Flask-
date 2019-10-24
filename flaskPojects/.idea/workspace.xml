@@ -1,12 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ChangeListManager">
+    <list default="true" id="a87d0100-0c7d-40df-9a92-26858e3c124a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/blueprint_imports.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/nginx-ubuntu-certbot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/posts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/snippets/supervisor.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/static/driveIcons/folderIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/static/driveIcons/folder_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/bootstrap-4.3.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/drive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/drive_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/folder_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/site.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/blueprint_imports.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/nginx-ubuntu-certbot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/posts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/supervisor.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FYP_UI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FYP_UI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FYP_UI/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FYP_UI/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flaskBlog/routes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="e#0#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flaskPojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flaskPojects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flaskPojects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flaskPojects" type="462c0819:PsiDirectoryNode" />
+              <item name="flaskBlog" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a87d0100-0c7d-40df-9a92-26858e3c124a" name="Default Changelist" comment="" />
+      <created>1571834086355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571834086355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flaskBlog/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

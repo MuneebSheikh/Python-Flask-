@@ -2,7 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e574f21-c0f6-4937-a0c1-10e5f49012e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/blueprint_imports.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/nginx-ubuntu-certbot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/posts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snippets/supervisor.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/driveIcons/folderIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/driveIcons/folder_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap-4.3.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/drive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/drive_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/folder_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/site.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/blueprint_imports.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/nginx-ubuntu-certbot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/posts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FYP_UI_1/snippets/supervisor.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flaskPojects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flaskPojects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +73,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="58" column="99" lean-forward="true" selection-start-line="55" selection-end-line="58" selection-end-column="99" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -42,6 +107,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/routes.py" />
+        <option value="$PROJECT_DIR$/forms.py" />
         <option value="$PROJECT_DIR$/run.py" />
       </list>
     </option>
@@ -135,7 +201,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -143,7 +209,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -157,10 +223,23 @@
     <entry file="file://$PROJECT_DIR$/routes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="221">
+          <caret line="58" column="99" lean-forward="true" selection-start-line="55" selection-end-line="58" selection-end-column="99" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
